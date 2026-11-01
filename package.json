@@ -1,0 +1,21 @@
+{
+  "name": "santhosh5072-lab1",
+  "version": "1.0.0",
+  "description": "Lab 1 - Node.js and Express Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "lab1"
+  ],
+  "author": "Sai Santhosh Kilaparthi",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
